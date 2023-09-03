@@ -1,0 +1,40 @@
+{
+  "TOKEN": "",
+  "default_prefix": "*",
+  "owner": [""],
+  "topgg": "",
+  "dashboard": "",
+  "ksoftapi": "",
+  "DB": "",
+  "DB_NAME": "Koushik codez",
+  "log": "",
+  "spotifyID": "",
+  "spotifySecret": "",
+  "colors": {
+    "error": "ffffff",
+    "success": "ffffff",
+    "main": "ffffff"
+    
+  },
+  "emojis": {
+    "success": "✔️",
+    "error": "❌",
+    "helpEmo": "⬜",
+    "fluteMusic": "🎵",
+    "filters": "🎚️",
+    "premium": "💵",
+    "enabled": "☑️",
+    "disabled": "❎"
+  },
+  "nodes": [
+    
+    {
+      "host": "lavalink-repl.parasop.repl.co",
+      "port": 443,
+      "password": "youshallnotpass",
+      "youtube search": true,
+      "secure": true
+    }
+    
+  ]
+}
