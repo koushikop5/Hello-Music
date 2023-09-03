@@ -23,10 +23,15 @@
     <a href="https://github.com/koushikop5/Hello-Music/issues">Feature Suggest</a>
 
 # About Us
+<!--
+<a href="https://github.com/koushikop5/Hello-Music">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koushikop5&repo=Hello-Music" />
+</a> -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushikop5&repo=Hello-Music&theme=tokyonight)](https://github.com/koushikop5/Hello-Music.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushikop5&repo=Hello-Music&theme=aura)](https://github.com/koushikop5/Hello-Music)
+<!-- cop -->
 
-Hello Music is a  high quality music bot, made by Team Koushi codez this is javascript based bot where we are trying to include everything possible join voice channel type  ,play and enjoy your songs.
+ Hello Music is a  high quality music bot, made by Team Koushi codez this is javascript based bot where we are trying to include everything possible join voice channel type  ,play and enjoy your songs.
 
  FEATURES
 Hello Music gets ready with zero configuration just give read access where you are going to use it and you are ready to 24/7 music.
