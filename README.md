@@ -8,8 +8,8 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/koushikop5/">
-    <img src="https://media.discordapp.net/attachments/944261784150343700/1147991872493596752/goop.png?width=480&height=480" alt="Pbot-plus" width="200" height="200">
+  <a href="https://github.com/brblacky/WaveMusic">
+    <img src="https://media.discordapp.net/attachments/1034712149961998339/1148019073981104218/Network-Music-Bot.png?width=480&height=480" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">Hello-Music</h3>
